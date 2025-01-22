@@ -7,12 +7,114 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "Lou Henson National Player of the Week, Ivy League Player of the Week, and the 16th Lion to ever score 1,000 points in three seasons are all accolades that define Geronimo Rubio De La Rosa."
+          },
+          {
+            "type": "text",
+            "value": "The guard’s college basketball career has brought him to the top of Columbia basketball achievement. This season, he is seeing a career high, averaging 19.1 points per game on astounding 50-50-90 shooting splits. With Rubio De La Rosa’s contributions, the Lions have had one of their best starts to a season in decades, with an 11-3 record overall."
+          },
+          {
+            "type": "text",
+            "value": "When looking at his career, one can’t help but wonder: How did he reach these heights?"
+          },
+          {
+            "type": "text",
+            "value": "The answer can be found, in part, in the numbers, which show that Rubio De La Rosa’s excellence is nothing new. Rather, it is the culmination of four years of continued upward development. Spectator examined factors from his efficiency to his on-ball protection in order to better understand the rise of the Light Blue star."
+          },
+          {
+            "type": "text",
+            "value": "One of the main contributors to Rubio De La Rosa’s ascent has been a constant increase in shooting efficiency year by year."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "shotefficiency.html"
+            }
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "shootingpercentage.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "Rubio De La Rosa has had a few constants over the course of his career. First, he has always been a focal point of the Lions’ offense, averaging over 30 minutes per game and displaying the centrality of his role on the court. Furthermore, he has been one of the Light Blue’s most consistent scoring options, tallying at least 12 points per game on average in each of the three full seasons he has played."
+          },
+          {
+            "type": "text",
+            "value": "Looking at his shooting numbers, he has improved exponentially. His three-point percentage, initially at 32.4 percent his first season, soared to an exceptional 43.3 percent this year. His overall field goal percentage has followed a similar trend, continually on the uptick and reaching a high-flying record of 51.2 percent. This trend has correlated to a constant increase in his scoring numbers, peaking this season at an astounding 19.1 points per game, making him one of the leading scorers in the country."
+          },
+          {
+            "type": "text",
+            "value": "These statistics are even more impressive considering he has not changed the shots he has taken. He has attempted at least 260 shots each complete season, 140 of which were threes, and over the course of his career he has made more attempts year after year. This trend is further shown by his shooting efficiency statistics, which have also followed an upward trend, rising from 46 percent in 2021 to 65 percent in 2024."
+          },
+          {
+            "type": "text",
+            "value": "Rubio De La Rosa’s skills as a playmaker—measured by his turnover and assist tallies—have also improved significantly."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "usagerate.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "His turnover rate has decreased over the years, going from 16.9 percent in 2021 to 6.6 percent so far in the 2024-25 season. His total number of turnovers has also followed this trend, decreasing from 66 in 2021 to 14 halfway through the current season. Rubio De La Rosa has also become much better at taking care of the ball on the offensive end, giving the Light Blue more opportunities to score with the increased number of successful possessions."
+          },
+          {
+            "type": "text",
+            "value": "This increase in ball security on Rubio De La Rosa’s part is even more impressive when considered through the lens of usage rate."
+          },
+          {
+            "type": "text",
+            "value": "A player’s usage rate is an estimate of the percentage of the team’s plays that a single player contributes to when they are on the court. There are three stats that contribute to the usage rate—points, assists, and turnovers. For a starting lineup of a basketball team, which consists of five players, a typical usage rate would be split equally among them. Rubio De La Rosa’s usage rate each season has been relatively average—right around 22 percent—but has continually increased over his career, peaking at 24.9 percent this season. Therefore, despite his turnover numbers going down, he has become more involved offensively and more efficient at protecting the ball."
+          },
+          {
+            "type": "text",
+            "value": "In addition to becoming more efficient as a playmaker, his confidence as an on-ball scorer has increased. As his usage rate has gone up, his total number of assists per season has decreased, meaning that a greater percentage of his involved plays have been ones where he has scored. Instead of passing the ball off on his touch, as he tended to do in previous seasons, now Rubio De La Rosa often takes the ball and scores, marking a development of his scoring instinct."
+          },
+          {
+            "type": "text",
+            "value": "A twofold trend like this is exceptionally rare for someone who plays Rubio De La Rosa’s position of shooting guard, a spot that traditionally plays off the ball, scoring on individual plays or chances created by the point guard. This highlights Rubio De La Rosa’s versatility as a player, showing his growth both as a scorer and a creator throughout his time with the Lions."
+          },
+          {
+            "type": "text",
+            "value": "Rubio De La Rosa’s ascent to Columbia stardom has been the culmination of a number of factors: increased efficiency both as a shooter and in protecting the ball, a developed killer instinct that allows him to be more confident as an on-ball scorer, and a greater involvement in Columbia’s offense."
+          },
+          {
+            "type": "text",
+            "value": "With his impressive career, he has cemented himself among the Columbia basketball greats and will further build his legacy as he continues his final Ivy League season in what has already been a remarkable 2024-25 campaign."
+          },
+          {
+            "type": "text",
+            "value": "<i>Deputy Sports Editor Lucas Metzger can be contacted at </i><a href=\"mailto:lucas.metzger@columbiaspectator.com\"><i>lucas.metzger@columbiaspectator.com.</i></a><i> Follow Spectator Sports on X </i><a href=\"https://twitter.com/cuspecsports?lang=en\"><i>@CUSpecSports</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Emilia Lebeau can be contacted at </i><i>emilia.lebeau@columbiaspectator.com</i><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "Geronimo Rubio De La Rosa’s ascent to Lions stardom through the numbers",
+        "dek": "Rubio De La Rosa has developed into a scoring force of nature for the Light Blue.",
+        "date": "January 21, 2024",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/lucas-metzger/\">Lucas Metzger</a>",
+        "byline2": "Graphic by <a href=\"https://www.columbiaspectator.com/contributors/emilia-lebeau/\">Emilia Lebeau</a>",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/PNQ5U2VT7VFNVNCNJQSUC4QBPY.jpg",
+        "cover_caption": "Anaïs Fotsing / Deputy Illustrations Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1wZdUEfold8v_U4pj5nHDVEO9jj7tg4HSnBNOTWgHjx0/edit?tab=t.0"
       }
     }
   }
